@@ -29,7 +29,6 @@ public class Diretor : MonoBehaviour
         Time.timeScale = 0;
         interfaceGameOver.ExibirInterface();
         trilhaSonora.SetActive(false);
-        quadroPontos.SetActive(false);
         pressSpace.SetActive(false);
         pontuacao.SalvarRecorde();
         interfaceGameOver.AtualizarInterface();
