@@ -1,8 +1,8 @@
-### Dig the grave
+# Dig the grave
 
-## Jogo de plataforma onde você é um corvo e tentará sair do cemitério mas, nunca te disseram que seria tão difícil assim voltar a terra dos vivos. O objetivo sempre será voar o mais rápido, o mais ágil, sem colidir com os pedaços de madeira que atrapalham o seu caminho. 
+##### Jogo de plataforma onde você é um corvo e tentará sair do cemitério mas, nunca te disseram que seria tão difícil assim voltar a terra dos vivos. O objetivo sempre será voar o mais rápido, o mais ágil, sem colidir com os pedaços de madeira que atrapalham o seu caminho. 
 
-<img src="https://img.itch.zone/aW1nLzg1Mjk1MTEuanBn/347x500/LNeUU%2F.jpg" alt="dig_the_grave.logo" width="60%">
+<div align="center"><img src="https://img.itch.zone/aW1nLzg1Mjk1MTEuanBn/347x500/LNeUU%2F.jpg" alt="dig_the_grave.logo" width="60%"></div>
 
 ---
 
