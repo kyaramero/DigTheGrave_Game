@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Lights
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "C\xE9u"
+    uniqueID: 1395842093
+    locked: 0
+  - name: Luzes
+    uniqueID: 3287469601
+    locked: 0
+  - name: Topografia
+    uniqueID: 3933503407
+    locked: 0
+  - name: "Ch\xE3o"
+    uniqueID: 1096319213
+    locked: 0
+  - name: Personagem
+    uniqueID: 709992459
+    locked: 0
+  - name: Obstaculos
+    uniqueID: 2812209535
+    locked: 0
+  - name: Na frente
+    uniqueID: 2870361443
+    locked: 0
